@@ -1,5 +1,3 @@
-[![](http://img.youtube.com/vi/f4ERy_fGVeY/0.jpg)](http://www.youtube.com/watch?v=f4ERy_fGVeY "")
-
 <!--
 **xnum/xnum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
