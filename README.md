@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 
 ### 目標
 
-FIRE
-
-退休進度條 
-
-![Retired](https://progress-bar.dev/25/?width=200&title=retired)
+成為一個團隊補師
 
 ### TL;DR
 
@@ -34,6 +30,5 @@ FIRE
 9. 這樣也不是辦法，於是開始了負責招募新成員
 10. 嘗試把事情丟給小夥伴們自行處理
 11. 不然來研究網路好了
-12. 往深處邁進...
-
-![Timeline](https://github.com/xnum/xnum/blob/master/timeline.md)
+12. 不知不覺的mastering kubernetes，在on-premise機房良好運作2y了
+13. 2023年重拾C++系統程式，融合了軟體測試、軟體架構、SIMD、極致效能優化、lock-free和RCU、kernel bypass。打造次世代風控中台系統
