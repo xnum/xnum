@@ -27,12 +27,15 @@ Here are some ideas to get you started:
 
 - Engineering Department
   - Core Technology Team
-    - Build high quality, well-tested products
-    - Solve hard problems
-  - Application Team
-    - User-Centric
-    - Developer Experience
+    - 研發交易系統的核心元件
+    - 交付高品質的軟體產品
+  - Platform Team
+    - 研發交易系統的平台化/雲端化產品
+    - 用戶導向的核心思維
+    - 打造良好的開發者體驗
   - On-Premise Kubernetes Proficient Team
+    - 維運地端的Kubernetes叢集
+    - 挑戰99.999%的高可用架構
 
 職掌：
 
