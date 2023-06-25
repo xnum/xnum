@@ -13,6 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 我是
+
+- staff C++ programmer
+- principal Golang programmer
+- mid-level react programmer
+- kubernetes administrator
+- kubernetes application developer
+
+### 專長
+
+- Software testing
+- Software architecture
+- high performance computing
+- distributed system
+- performance tuning
+
 ### 目前的工作
 
 天鏡科技 - Vice President of Engineering
@@ -39,8 +55,8 @@ Here are some ideas to get you started:
 
 職掌：
 
+- 掌管工程部門
 - 對產品和團隊負直接責任
-- 協助培育team lead
 - 協助team member規劃career path
 - 策畫部門目標
 - 跨部門協調溝通
@@ -53,14 +69,4 @@ email: jun.yeh@skymirror.com.tw
 
 完成於策略無限(Stranity)公司的階段性任務，回到母公司開始執行下一階段的目標。
 
-### 專長
 
-- staff C++ programmer
-- principal Golang programmer
-- mid-level react programmer
-- kubernetes administrator
-- kubernetes application developer
-- Software testing
-- Software architecture
-- high performance computing
-- distributed system
