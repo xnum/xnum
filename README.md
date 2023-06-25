@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 - distributed system
 - performance tuning
 
+### 履歷
+
+https://xnum.github.io/resume/
+
 ### 目前的工作
 
 天鏡科技 - Vice President of Engineering
