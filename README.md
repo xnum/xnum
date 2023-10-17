@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 - distributed system
 - performance tuning
 
-### 履歷
-
-https://xnum.github.io/resume/
-
 
 
 
