@@ -13,21 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 我是
+### My role could be
 
-- staff C++ programmer
-- principal Golang programmer
-- mid-level react programmer
-- kubernetes administrator
-- kubernetes application developer
+- Staff C++ Programmer
+- Principal Golang Programmer
+- Mid-Level React Programmer
+- Kubernetes Administrator
+- Kubernetes Application Developer
 
-### 專長
+### I am specialized in
 
-- Software testing
-- Software architecture
-- high performance computing
-- distributed system
-- performance tuning
+- Software Testing
+- Software Architecture
+- High-Performance Computing
+- Distributed Systems
+- Performance Tuning
+- Low Latency
 
 
 <img src="https://komarev.com/ghpvc/?username=xnum&style=for-the-badge" />
