@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **CUDA Programming**
 
-- 📝 I regularly write articles on [xnum.github.io](xnum.github.io)
+- 📝 I regularly write articles on [blog](xnum.github.io)
 
-- 📫 How to reach me **<-- Email**
+- 📫 How to reach me **Email**
 
-- 📄 Know about my experiences [resume.xnum.in](resume.xnum.in)
+- 📄 Know about my experiences [resume](resume.xnum.in)
+
+- 🖥️ View my presentations: [presentations](https://www.xnum.in/slides.html)
 
 ### My role could be
 
