@@ -29,11 +29,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [在dnsmasq加上自動生成PTR紀錄](https://xnum.github.io/2024/05/auto-ptr-dnsmasq/)
 - [ultrahuman ring air 台灣購買兼使用心得](https://xnum.github.io/2024/05/ultrahuman-ring/)
 - [AI Singing Voice Conversion &lpar;SVC&rpar; 的試玩心得](https://xnum.github.io/2024/04/so-vits-svc/)
 - [健康的堅果種類選擇](https://xnum.github.io/2024/02/nuts/)
 - [資訊的載體正在改變](https://xnum.github.io/2024/02/talk/)
-- [Go在後端開發的不足之處](https://xnum.github.io/2023/11/go-downside-in-web-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
