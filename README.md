@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jia-Jun, Yeh</h1>
 <h3 align="center">A software engineer from Taiwan</h3>
 
-- 🌱 I’m currently learning **CUDA Programming**
+- 🌱 I’m currently between two jobs.
 
 - 📝 I regularly write articles on [blog](https://xnum.github.io)
 
-- 📫 How to reach me **Email**
+- 📫 How to reach me: **Email**
 
 - 📄 Know about my experiences [resume](https://resume.xnum.in)
 
