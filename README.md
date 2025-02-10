@@ -29,11 +29,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2024/8 菲律賓遊學記](https://xnum.github.io/2024/09/ph-lang-school-tutor-1/)
 - [使用DNS紀錄來自動更新IP白名單](https://xnum.github.io/2024/06/dns-record-as-ip-white-list/)
 - [lvremove 遇到 contains a filesystem in use](https://xnum.github.io/2024/06/lvremove/)
 - [多媒體檔案管理和下載伺服器 - 軟體篇](https://xnum.github.io/2024/05/media-storage-server/)
 - [淘寶退貨 順豐寄回大陸經驗](https://xnum.github.io/2024/05/sf-china-delivery/)
-- [在Linux上面安裝glances並設定為系統服務](https://xnum.github.io/2024/05/install-glances/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
